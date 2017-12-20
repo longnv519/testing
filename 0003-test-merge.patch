@@ -1,0 +1,16 @@
+From 56457b1ea22f6244ad2ec6884236977ad545978b Mon Sep 17 00:00:00 2001
+From: LongNguyen <long.nguyenvancmc@toshiba-tsdv.com>
+Date: Wed, 20 Dec 2017 10:43:54 +0700
+Subject: [PATCH 3/3] test merge
+
+---
+ merge1.sh | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 merge1.sh
+
+diff --git a/merge1.sh b/merge1.sh
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.1.4
+
