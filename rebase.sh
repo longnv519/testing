@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "test rebase"
+echo "test rebase fucking stupid"
